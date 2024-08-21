@@ -1,0 +1,7 @@
+var name = "robert";
+var othername = "samuel";
+var file = (1234);
+print(name, file);
+print(name, othername);
+print(456/34+98*76);
+print(hello world);
